@@ -1,0 +1,14 @@
+pycrunchbase
+============
+
+by Joseph Turian
+
+Python methods to interact with the Crunchbase API v1.
+
+Detailed documentation is available at:
+    http://groups.google.com/group/crunchbase-api/web/api-v1-documentation.
+
+We don't implement all API methods.
+
+Code initially based upon the friendfeed API v1 implementation in Python
+(Apache License, Version 2.0).
